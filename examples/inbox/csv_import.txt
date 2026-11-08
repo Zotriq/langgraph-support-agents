@@ -1,0 +1,4 @@
+From: tom@harbortech.io
+Subject: weird characters after import
+
+Imported our contact list from Excel and all the names with accents look like "JosÃ©". What did we do wrong?

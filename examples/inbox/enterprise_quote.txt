@@ -1,0 +1,4 @@
+From: priya@northfieldlogistics.com
+Subject: Pricing for 120 users
+
+We're evaluating tools for 120 people and need SSO and audit logs. What would that cost on an annual plan?

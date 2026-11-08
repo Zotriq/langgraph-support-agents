@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {"email": "sara@brightlane.co", "name": "Sara Malik", "company": "Brightlane", "plan": "Pro", "seats": 12,
+     "status": "active", "renews_on": "2026-12-01",
+     "invoices": [
+       {"number": "INV-3301", "date": "2026-10-01", "amount": 588.00, "status": "paid"},
+       {"number": "INV-3388", "date": "2026-11-01", "amount": 588.00, "status": "paid"},
+       {"number": "INV-3389", "date": "2026-11-01", "amount": 588.00, "status": "paid", "note": "duplicate charge, created by a billing retry"}
+     ]},
+    {"email": "tom@harbortech.io", "name": "Tom Reyes", "company": "Harbor Tech", "plan": "Starter", "seats": 3,
+     "status": "active", "renews_on": "2027-02-14",
+     "invoices": [{"number": "INV-3120", "date": "2026-08-14", "amount": 49.00, "status": "paid"}]}
+  ]
+}
